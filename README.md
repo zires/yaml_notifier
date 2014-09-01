@@ -1,4 +1,4 @@
-mongoid_notifier
+yaml_notifier
 ================
 
-save exceptions in mongodb when exception_notification occur
+save exceptions in yaml when exception_notification occur
